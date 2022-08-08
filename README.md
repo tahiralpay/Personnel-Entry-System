@@ -14,5 +14,9 @@ Follow the steps below to complete the project successfully;
 
 * After editing we upload the code to nodemcu.
 
-## REQIRED LIBRARIES
+## REQIRED Libraries
 * `bhttps://www.arduino.cc/reference/en/libraries/mfrc522/`
+* `https://github.com/tahiralpay/Personnel-Entry-System/blob/main/HTTPSRedirect-master.zip`
+
+## Circuid Diagram
+![Circuid-Diagram](https://user-images.githubusercontent.com/75435070/183433026-faaeb84d-43b6-44a7-81a8-8e8093bba979.png)
