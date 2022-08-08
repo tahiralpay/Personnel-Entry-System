@@ -19,4 +19,5 @@ Follow the steps below to complete the project successfully;
 * `https://github.com/tahiralpay/Personnel-Entry-System/blob/main/HTTPSRedirect-master.zip`
 
 ## Circuid Diagram
-![Circuid-Diagram](https://user-images.githubusercontent.com/75435070/183433026-faaeb84d-43b6-44a7-81a8-8e8093bba979.png)
+![Circuid-Diagram](https://user-images.githubusercontent.com/75435070/183499047-bd222645-9dea-4617-8e30-f3cdcf62e6b6.png)
+
