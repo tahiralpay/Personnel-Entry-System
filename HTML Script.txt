@@ -39,7 +39,7 @@ function doPost(e) {
     var Curr_Date = new Date(new Date().setHours(new Date().getHours() + hours));
     var Curr_Time = Utilities.formatDate(Curr_Date, timezone, 'HH:mm:ss');
 
-    var value0 = dataArr [0]; // value0 from Arduino code - Student ID
+    var value0 = dataArr [0]; // value0 from Arduino code - Personnel ID
     var value1 = dataArr [1]; // value1 from Arduino code - First Name
     var value2 = dataArr [2]; // value2 from Arduino code - Last Name
     var value3 = dataArr [3]; // value0 from Arduino code - Phone Number
@@ -59,7 +59,7 @@ function doPost(e) {
          
          sheet.getRange('A2').setValue(Curr_Date); // publish current date to cell A2
          sheet.getRange('B2').setValue(Curr_Time); // publish current time to cell B2
-         sheet.getRange('C2').setValue(value0);   // publish Student ID from Arduino code to cell C2
+         sheet.getRange('C2').setValue(value0);   // publish Personnel ID from Arduino code to cell C2
          sheet.getRange('D2').setValue(value1);   // publish First Name from Arduino code to cell D2
          sheet.getRange('E2').setValue(value2);   // publish Last Name from Arduino code to cell E2
          sheet.getRange('F2').setValue(value3);   // publish Phone Number from Arduino code to cell F2
