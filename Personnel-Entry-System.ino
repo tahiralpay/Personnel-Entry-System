@@ -16,8 +16,8 @@
 const char *GScriptId = "AKfycbwZNWmOW2p4syjZ8CY-owv4qsH4kuci1Ltpx0Czl6JUisjsVTOht0gSXbDgEhYdtQBrOA";
 //---------------------------------------------------------------------------------------------------------
 // Enter network credentials:
-const char* ssid     = "TurkTelekom_T70E9";
-const char* password = "kiymet44mehmet";
+const char* ssid     = "your-wifi-ssid";
+const char* password = "your-wifi-password";
 //---------------------------------------------------------------------------------------------------------
 // Enter command (insert_row or append_row) and your Google Sheets sheet name (default is Sheet1):
 String payload_base =  "{\"command\": \"insert_row\", \"sheet_name\": \"Sheet1\", \"values\": ";
