@@ -1,10 +1,7 @@
-//------------------------------------------------------------------------
-// Created by: Tauseef Ahmad
-// Created on: 17 July, 2022
-  
-// Tutorial: https://youtu.be/Bgs_3F5rL5Q
-// ------------------------------------------------------------------------
- 
+/*
+  AUGUST 2022 TALPAY
+  PROJE İSMİ: Personnel Entry System
+*/
  
  // Enter Spreadsheet ID here
 var SS = SpreadsheetApp.openById('ENTER_SHEET_ID');
