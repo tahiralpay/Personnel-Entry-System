@@ -14,7 +14,7 @@ Follow the steps below to complete the project successfully;
 
 * After editing we upload the code to nodemcu.
 
-## REQIRED Libraries
+## Reqired Libraries
 * `bhttps://www.arduino.cc/reference/en/libraries/mfrc522/`
 * `https://github.com/tahiralpay/Personnel-Entry-System/blob/main/HTTPSRedirect-master.zip`
 
